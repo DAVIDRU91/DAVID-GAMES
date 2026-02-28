@@ -7,7 +7,7 @@ PAGINA DE ELETRODOSMESTICOS MAS ESPECIFICOS A COMPUTADORAS, LAPTOS, TABLETS Y MA
     <div class="carousel-slide">
     
 <img src="IMAGENES TORRES/61kePNBZASL._AC_SL1500_.jpg"  class="active">
-        <img src="IMAGENES TORRES/51mjyYKLstL._AC_SL1000_.jpg" >
+        <img src="https://i.pinimg.com/originals/51/a0/72/51a0728076f2cec4eb3d22fee8e36681.jpg" >
         <img src="IMAGENES TORRES/61o3xW2rmsL._AC_SL1500_.jpg" >
     </div>
     <button class="prev" onclick="changeSlide(-1)">&#10094;</button>
