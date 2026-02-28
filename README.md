@@ -21,7 +21,7 @@
 <div class="parrafos">
     <p>Dell OptiPlex 5050 SFF PC de escritorio, 3.4GHz Intel i5-7500, <br> RAM, 256GB SSD, Windows 11 Pro 64 bits (reacondicionado)</p> 
                                 <!--cambiar color letra x letra-->                                                                        <!--separar un poco hacia la derecha-->
-    <div class="wd"><p>Precio <span style="color:blue">U</span><span style="color: red;">S</span><span style="color:white;">D</span><span style="margin-left: 10px;" style="color:rgb(28, 255, 28);">$</span><span style="color: rgb(255, 255, 255);">209.99</span></p></div>
+    <div class="wd"><p>Precio <span style="color:blue">U</span><span style="color: red;">S</span><span style="color:white;">D</span><span style="margin-left: 10;" style="color:(28, 255, 28);">$</span><span style="color: (255, 255, 255);">209.99</span></p></div>
 </div>
 <TABle>
     <TR>
@@ -34,7 +34,7 @@
 <style>  
 .wd
 {
-color: rgb(81, 236, 9);
+color: (81, 236, 9);
 
 }
 
