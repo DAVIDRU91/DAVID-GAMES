@@ -1,12 +1,5 @@
 # DAVID-GAMES
 PAGINA DE ELETRODOSMESTICOS MAS ESPECIFICOS A COMPUTADORAS, LAPTOS, TABLETS Y MAS PARA TU HOGAR 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TORRES</title>
-</head>
 <body> 
     <h1><CEnter><span style="color: #ECF40B;"><h2>TORRES</h2></span></CEnter></h1>    
     <HR>
